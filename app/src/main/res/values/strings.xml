@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Todo List</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Login</string>
+
+    <!-- Login -->
+    <string name="login_txtUsuario">Usuário:</string>
+    <string name="login_txtSenha">Senha:</string>
+    <string name="login_btnEntrar">Entrar</string>
+    <string name="login_ckbConectado">Manter conectado?</string>
+
+</resources>
