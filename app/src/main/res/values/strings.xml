@@ -11,4 +11,8 @@
     <string name="login_btnEntrar">Entrar</string>
     <string name="login_ckbConectado">Manter conectado?</string>
 
+    <!-- Validacaoes -->
+    <string name="login_valUsuario">Usuário obrigatório.</string>
+    <string name="login_valSenha">Senha obrigatório.</string>
+
 </resources>
