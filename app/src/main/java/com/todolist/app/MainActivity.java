@@ -28,6 +28,10 @@ public class MainActivity extends ActionBarActivity {
         if (id == R.id.action_cadastro_usuarios) {
             startActivity(new Intent(this, CadUsuarioActivity.class));
         }
+
+        if (id == R.id.action_lista_usuarios) {
+            startActivity(new Intent(this, ListUsuariosActivity.class));
+        }
         return super.onOptionsItemSelected(item);
     }
 

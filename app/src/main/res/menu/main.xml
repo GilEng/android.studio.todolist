@@ -7,4 +7,9 @@
         android:title="@string/usuarios"
         android:orderInCategory="100"
         app:showAsAction="never" />
+
+    <item android:id="@+id/action_lista_usuarios"
+        android:title="@string/lista_usuarios"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
 </menu>
