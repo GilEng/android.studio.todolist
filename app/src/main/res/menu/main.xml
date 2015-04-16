@@ -7,4 +7,14 @@
         android:title="@string/usuarios"
         android:orderInCategory="100"
         app:showAsAction="never" />
+
+    <item android:id="@+id/action_lista_sair"
+        android:title="@string/sair"
+        android:orderInCategory="101"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/action_lista_logout"
+        android:title="@string/logout"
+        android:orderInCategory="102"
+        app:showAsAction="never" />
 </menu>
